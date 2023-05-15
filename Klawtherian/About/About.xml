@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Klawtherian</name>
+  <author>alite</author>
+  <packageId>Klawtherian.Mod</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+
+  <modDependencies>
+    <li>
+      <packageId>ludeon.rimworld.ideology</packageId>
+      <displayName>Ideology</displayName>
+    </li>
+    <li>
+      <packageId>ludeon.rimworld.biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>
+  </modDependencies>
+
+  <loadAfter>
+    <li>Ludeon.RimWorld.Ideology</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+  </loadAfter>
+  
+  <description>
+This mod was created in response to a request to add Klawtherian to the game, a xenotype full of polytheistic warriors who trive in colder climates. You'll encounter both as tribal allies you may trade with, and pirates scouring the land.
+
+[url=https://github.com/KonradHeinser/Klawtherian][img]https://i.imgur.com/kTkpTOE.png[/img][/url]
+[url=https://ko-fi.com/alite56114][img]https://i.imgur.com/Utx6OIH.png[/img][/url]
+  </description>
+</ModMetaData>
+
