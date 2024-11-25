@@ -5,13 +5,11 @@
     <XenotypeDef>
         <defName>Klawtherian</defName>
         <label>klawtherian</label>
-        <description>The Klawtherians are a strange and interesting race new to the Universe of Rimworld. They are a race of warrior like  like humanoids that tend to live in small tribal communities within the Wilds of the jungles and forests found on the surface, distinctly known for their impressive strength, feline-like vision, fur-covered bodies, toleratance to cold temperatures, and strong immune systems. Much like many of the tribal factions found within the planet they seem to be pagans or rather “polytheistic” in belief as well as rely on being hunter gatherers where every man and woman are made to contribute for the survival of all. Now these anthropomorphic humans live as skilled tribal people who fend for themselves in wilds.
-.</description>
+        <description>The Klawtherians are a strange and interesting race new to the Universe of Rimworld. They are a race of warrior like  like humanoids that tend to live in small tribal communities within the Wilds of the jungles and forests found on the surface, distinctly known for their impressive strength, feline-like vision, fur-covered bodies, toleratance to cold temperatures, and strong immune systems. Much like many of the tribal factions found within the planet they seem to be pagans or rather “polytheistic” in belief as well as rely on being hunter gatherers where every man and woman are made to contribute for the survival of all. Now these anthropomorphic humans live as skilled tribal people who fend for themselves in wilds.</description>
         <descriptionShort>Warrior like humanoids that tend to live in small tribal communities within the Wilds of the jungles and forests found on the surface, distinctly known for their impressive strength, feline-like vision, fur-covered bodies, toleratance to cold temperatures, and strong immune systems.</descriptionShort>
         <iconPath>UI/Icons/Xenotypes/Baseliner</iconPath>
         <inheritable>true</inheritable>
         <genes>
-            <li>AnimalWarcall</li>
             <li>Ears_Pointed</li> 
             <li>Nose_Human</li> 
             <li>Jaw_Baseline</li>
@@ -24,15 +22,12 @@
             <li>Furskin</li> 
             <li>MinTemp_SmallDecrease</li> 
             <li>MaxTemp_SmallDecrease</li> 
-            <li>MoveSpeed_Quick</li> 
             <li>PsychicAbility_Dull</li>
             <li>Beauty_Pretty</li>
             <li>Robust</li> 
-            <li>Pain_Reduced</li> 
             <li>Aggression_Aggressive</li> 
             <li>MeleeDamage_Strong</li>
             <li>Libido_High</li> 
-            <li>AddictionResistant_Alcohol</li>
             <li>StrongStomach</li> 
             <li>Hair_SnowWhite</li> 
             <li>Hair_InkBlack</li>
